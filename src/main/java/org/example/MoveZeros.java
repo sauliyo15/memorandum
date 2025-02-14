@@ -42,7 +42,7 @@ public class MoveZeros {
         System.out.println(Arrays.toString(result));
     }
 
-    
+
     public static void main(String[] args) {
 
         Object [] array = {false, 1, 0, 1, 2, 0, 1, 3, "a"};
